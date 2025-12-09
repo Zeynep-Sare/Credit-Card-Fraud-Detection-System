@@ -2,7 +2,6 @@ import sqlite3
 import pandas as pd
 from datetime import datetime
 
-db.create_fraud_db()
 # Veritabanı dosya ismimiz
 DB_NAME = 'fraud_project.db'
 
@@ -112,4 +111,5 @@ def clear_all_data():
         c.execute("DELETE FROM predictions")  # Tabloyu boşalt
         conn.commit()
         conn.close()
+
 
