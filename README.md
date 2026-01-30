@@ -103,6 +103,6 @@ farklı bir deneyimdi.
 gizlemeyi öğrendim.
 
 ---
-**Bu proje Zero2End Machine Learning Bootcamp kapsamında geliştirilmiştir.**
 
  
+
